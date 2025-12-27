@@ -2,4 +2,6 @@ hello this is a file written in the vim editor as a part of the
 git and its command tutorial 
 first attempt at documenting something that i am doing
 will try to upload it on th repo from my pc in ubuntu
-
+yay uploaded 
+i have added something called ssh as per gpts instruction ,
+now i can directly push from here without passkey 
