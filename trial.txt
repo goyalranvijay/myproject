@@ -4,4 +4,6 @@ first attempt at documenting something that i am doing
 will try to upload it on th repo from my pc in ubuntu
 yay uploaded 
 i have added something called ssh as per gpts instruction ,
-now i can directly push from here without passkey 
+now i can directly push from here without passkey
+i have completed the git game till level 6 
+ 
